@@ -6,10 +6,10 @@ class Solution {
             if (i > maxReach) {
                 return false;
             }
-
+            // always check for the max by traversing the array
             maxReach = Math.max(maxReach, i + nums[i]);
         }
-
+        
         return true;
     }
 }
