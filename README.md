@@ -18,8 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Saurabh4325/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1454-remove-palindromic-subsequences](https://github.com/Saurabh4325/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 ## Stack
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Saurabh4325/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [1454-remove-palindromic-subsequences](https://github.com/Saurabh4325/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 <!---LeetCode Topics End-->
