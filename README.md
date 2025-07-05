@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Saurabh4325/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/Saurabh4325/leetcode/tree/master/1454-remove-palindromic-subsequences) |
+| [2406-decode-the-message](https://github.com/Saurabh4325/leetcode/tree/master/2406-decode-the-message) |
 ## Stack
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1454-remove-palindromic-subsequences](https://github.com/Saurabh4325/leetcode/tree/master/1454-remove-palindromic-subsequences) |
+## Hash Table
+|  |
+| ------- |
+| [2406-decode-the-message](https://github.com/Saurabh4325/leetcode/tree/master/2406-decode-the-message) |
 <!---LeetCode Topics End-->
