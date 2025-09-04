@@ -49,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Saurabh4325/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+## Math
+|  |
+| ------- |
+| [3830-find-closest-person](https://github.com/Saurabh4325/leetcode/tree/master/3830-find-closest-person) |
 <!---LeetCode Topics End-->
