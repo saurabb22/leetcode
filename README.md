@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Saurabh4325/leetcode/tree/master/0162-find-peak-element) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Saurabh4325/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2227-sum-of-subarray-ranges](https://github.com/Saurabh4325/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Saurabh4325/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2406-decode-the-message](https://github.com/Saurabh4325/leetcode/tree/master/2406-decode-the-message) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Saurabh4325/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2227-sum-of-subarray-ranges](https://github.com/Saurabh4325/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+## Sliding Window
+|  |
+| ------- |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Saurabh4325/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->
