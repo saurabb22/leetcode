@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saurabh4325/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Saurabh4325/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/Saurabh4325/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [2406-decode-the-message](https://github.com/Saurabh4325/leetcode/tree/master/2406-decode-the-message) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saurabh4325/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Saurabh4325/leetcode/tree/master/0496-next-greater-element-i) |
 | [2406-decode-the-message](https://github.com/Saurabh4325/leetcode/tree/master/2406-decode-the-message) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Saurabh4325/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saurabh4325/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Saurabh4325/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Math
 |  |
