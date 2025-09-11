@@ -5,17 +5,13 @@ class Solution {
             if(arr[i]>0){
                 st.push(arr[i]);
             }else{
-                // boolean destroyed = false;
                 while(!st.isEmpty() && st.peek()>0 && st.peek() < Math.abs(arr[i])){
                     st.pop();
                 }
                 if(!st.isEmpty() && st.peek()==Math.abs(arr[i])){
                     st.pop();
-                    // destroyed = true;
                 }else if(st.isEmpty() || st.peek() <0){
                     st.push(arr[i]);
-                }else{
-                    // destroyed = true;
                 }
             }
 
