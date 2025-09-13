@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Saurabh4325/leetcode/tree/master/0735-asteroid-collision) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Saurabh4325/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2227-sum-of-subarray-ranges](https://github.com/Saurabh4325/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2636-maximum-subsequence-score](https://github.com/Saurabh4325/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Saurabh4325/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Saurabh4325/leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Dynamic Programming
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Saurabh4325/leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Saurabh4325/leetcode/tree/master/0179-largest-number) |
+| [2636-maximum-subsequence-score](https://github.com/Saurabh4325/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Saurabh4325/leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## String
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Saurabh4325/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurabh4325/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2636-maximum-subsequence-score](https://github.com/Saurabh4325/leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Merge Sort
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Saurabh4325/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurabh4325/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2636-maximum-subsequence-score](https://github.com/Saurabh4325/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Saurabh4325/leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Quickselect
 |  |
