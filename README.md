@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Saurabh4325/leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Saurabh4325/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurabh4325/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0455-assign-cookies](https://github.com/Saurabh4325/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Saurabh4325/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Saurabh4325/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Saurabh4325/leetcode/tree/master/0735-asteroid-collision) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Saurabh4325/leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Saurabh4325/leetcode/tree/master/0179-largest-number) |
+| [0455-assign-cookies](https://github.com/Saurabh4325/leetcode/tree/master/0455-assign-cookies) |
 | [2636-maximum-subsequence-score](https://github.com/Saurabh4325/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Saurabh4325/leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## String
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Saurabh4325/leetcode/tree/master/0455-assign-cookies) |
 | [1454-remove-palindromic-subsequences](https://github.com/Saurabh4325/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [2481-strictly-palindromic-number](https://github.com/Saurabh4325/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Hash Table
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Saurabh4325/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurabh4325/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0455-assign-cookies](https://github.com/Saurabh4325/leetcode/tree/master/0455-assign-cookies) |
 | [2636-maximum-subsequence-score](https://github.com/Saurabh4325/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Saurabh4325/leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Quickselect
