@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Saurabh4325/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Saurabh4325/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -124,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Saurabh4325/leetcode/tree/master/0735-asteroid-collision) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Saurabh4325/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
