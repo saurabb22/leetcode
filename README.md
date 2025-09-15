@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Saurabh4325/leetcode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saurabh4325/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1454-remove-palindromic-subsequences](https://github.com/Saurabh4325/leetcode/tree/master/1454-remove-palindromic-subsequences) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Saurabh4325/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/Saurabh4325/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Saurabh4325/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Saurabh4325/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Saurabh4325/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Divide and Conquer
 |  |
