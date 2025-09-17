@@ -1,19 +1,23 @@
 class Solution {
     public double average(int[] salary) {
-        Arrays.sort(salary);
-        // int mid = salary.length/2;
-        // if(salary.length%2==0){
-        //     int first = salary[mid];
-        //     int sec = salary[mid-1];
-        //     return (first+sec) /2.0;
-        // }else{
-        //     return (double)salary[mid];
+        // first approach
+        // Arrays.sort(salary);
+        // int sum = 0;
+        // for(int i=1; i<salary.length-1; i++){
+        //     sum = sum+ salary[i];
         // }
+        // return (double)sum/(salary.length-2);
 
+        // second approach
+        int mini = Integer.MAX_VALUE;
+        int maxi = Integer.MIN_VALUE;
         int sum = 0;
-        for(int i=1; i<salary.length-1; i++){
-            sum = sum+ salary[i];
+        for(int i=0; i<salary.length; i++){
+            mini = Math.min(mini,salary[i]);
+            maxi = Math.max(maxi,salary[i]);
+            sum = sum+salary[i];
         }
-        return (double)sum/(salary.length-2);
+        sum = sum-mini-maxi;
+        return (double) sum/(salary.length-2);
     }
 }
