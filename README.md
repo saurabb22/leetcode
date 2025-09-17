@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Saurabh4325/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Saurabh4325/leetcode/tree/master/0735-asteroid-collision) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saurabh4325/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurabh4325/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Saurabh4325/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2227-sum-of-subarray-ranges](https://github.com/Saurabh4325/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2636-maximum-subsequence-score](https://github.com/Saurabh4325/leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurabh4325/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/Saurabh4325/leetcode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saurabh4325/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurabh4325/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2636-maximum-subsequence-score](https://github.com/Saurabh4325/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/Saurabh4325/leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Quickselect
