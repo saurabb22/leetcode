@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Saurabh4325/leetcode/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Saurabh4325/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Saurabh4325/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Saurabh4325/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Saurabh4325/leetcode/tree/master/0735-asteroid-collision) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Saurabh4325/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Saurabh4325/leetcode/tree/master/0027-remove-element) |
 | [0148-sort-list](https://github.com/Saurabh4325/leetcode/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Saurabh4325/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Saurabh4325/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Saurabh4325/leetcode/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Saurabh4325/leetcode/tree/master/0917-boats-to-save-people) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Saurabh4325/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Saurabh4325/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Saurabh4325/leetcode/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Saurabh4325/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Saurabh4325/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Saurabh4325/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Divide and Conquer
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Saurabh4325/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Saurabh4325/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
