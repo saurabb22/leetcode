@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Saurabh4325/leetcode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Saurabh4325/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Saurabh4325/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurabh4325/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Saurabh4325/leetcode/tree/master/0162-find-peak-element) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saurabh4325/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Saurabh4325/leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Saurabh4325/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Saurabh4325/leetcode/tree/master/0242-valid-anagram) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Saurabh4325/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saurabh4325/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Saurabh4325/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Saurabh4325/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Saurabh4325/leetcode/tree/master/0496-next-greater-element-i) |
 | [2406-decode-the-message](https://github.com/Saurabh4325/leetcode/tree/master/2406-decode-the-message) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Saurabh4325/leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Saurabh4325/leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Saurabh4325/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurabh4325/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
