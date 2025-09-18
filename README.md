@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Saurabh4325/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Saurabh4325/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Saurabh4325/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0724-find-pivot-index](https://github.com/Saurabh4325/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Saurabh4325/leetcode/tree/master/0735-asteroid-collision) |
 | [0917-boats-to-save-people](https://github.com/Saurabh4325/leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saurabh4325/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Saurabh4325/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Saurabh4325/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
