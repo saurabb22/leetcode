@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Saurabh4325/leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saurabh4325/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/Saurabh4325/leetcode/tree/master/1127-last-stone-weight) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Saurabh4325/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurabh4325/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Saurabh4325/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2227-sum-of-subarray-ranges](https://github.com/Saurabh4325/leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurabh4325/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Saurabh4325/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Saurabh4325/leetcode/tree/master/0496-next-greater-element-i) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Saurabh4325/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2406-decode-the-message](https://github.com/Saurabh4325/leetcode/tree/master/2406-decode-the-message) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Saurabh4325/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Binary Search
@@ -101,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saurabh4325/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Saurabh4325/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Saurabh4325/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Math
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/Saurabh4325/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Saurabh4325/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Saurabh4325/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3830-find-closest-person](https://github.com/Saurabh4325/leetcode/tree/master/3830-find-closest-person) |
@@ -183,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Saurabh4325/leetcode/tree/master/0724-find-pivot-index) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Saurabh4325/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
