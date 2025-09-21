@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Saurabh4325/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/Saurabh4325/leetcode/tree/master/1127-last-stone-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Saurabh4325/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Saurabh4325/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurabh4325/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Saurabh4325/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2227-sum-of-subarray-ranges](https://github.com/Saurabh4325/leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Saurabh4325/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Saurabh4325/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2481-strictly-palindromic-number](https://github.com/Saurabh4325/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Saurabh4325/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3830-find-closest-person](https://github.com/Saurabh4325/leetcode/tree/master/3830-find-closest-person) |
