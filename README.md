@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saurabh4325/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Saurabh4325/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Saurabh4325/leetcode/tree/master/0049-group-anagrams) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Saurabh4325/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Saurabh4325/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Saurabh4325/leetcode/tree/master/0242-valid-anagram) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Saurabh4325/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saurabh4325/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Saurabh4325/leetcode/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurabh4325/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Saurabh4325/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/Saurabh4325/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Saurabh4325/leetcode/tree/master/0496-next-greater-element-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Saurabh4325/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Saurabh4325/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Saurabh4325/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Saurabh4325/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2481-strictly-palindromic-number](https://github.com/Saurabh4325/leetcode/tree/master/2481-strictly-palindromic-number) |
