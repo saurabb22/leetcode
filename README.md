@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saurabh4325/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Saurabh4325/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Saurabh4325/leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Saurabh4325/leetcode/tree/master/0058-length-of-last-word) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Saurabh4325/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Saurabh4325/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Saurabh4325/leetcode/tree/master/0242-valid-anagram) |
