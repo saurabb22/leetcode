@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Saurabh4325/leetcode/tree/master/0050-powx-n) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Saurabh4325/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Saurabh4325/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Saurabh4325/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Saurabh4325/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Saurabh4325/leetcode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Saurabh4325/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
