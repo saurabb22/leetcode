@@ -18,7 +18,10 @@ class Solution {
         if(subleft == null && subright == null) return true;
 
         if(subleft == null || subright==null || subleft.val!=subright.val) return false;
-        return isMirror(subleft.left, subright.right) && isMirror(subleft.right, subright.left);
+        boolean left =  isMirror(subleft.left, subright.right);
+        boolean right = isMirror(subleft.right, subright.left);
+        if(left== true && right==true) return true;
+        else return false; 
 
     }
     public boolean isSymmetric(TreeNode root) {
