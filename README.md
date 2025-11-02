@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurabh4325/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Saurabh4325/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Saurabh4325/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Saurabh4325/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Saurabh4325/leetcode/tree/master/0055-jump-game) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Saurabh4325/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Saurabh4325/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Saurabh4325/leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Saurabh4325/leetcode/tree/master/0141-linked-list-cycle) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Saurabh4325/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Saurabh4325/leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Saurabh4325/leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Saurabh4325/leetcode/tree/master/0179-largest-number) |
