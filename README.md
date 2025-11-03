@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saurabh4325/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Saurabh4325/leetcode/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/Saurabh4325/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [2384-root-equals-sum-of-children](https://github.com/Saurabh4325/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saurabh4325/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Saurabh4325/leetcode/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/Saurabh4325/leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [2384-root-equals-sum-of-children](https://github.com/Saurabh4325/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Backtracking
 |  |
 | ------- |
