@@ -1,38 +1,35 @@
 class Solution {
+    class Pair{
+        int nums2data;
+        int nums1data;
+        Pair(int nums2data, int nums1data){
+            this.nums2data = nums2data;
+            this.nums1data = nums1data;
+        }
+    }
     public long maxScore(int[] nums1, int[] nums2, int k) {
-        int n = nums1.length;
-
-        // Step 1: Pair nums2 with nums1
-        int[][] pairs = new int[n][2];
-        for (int i = 0; i < n; i++) {
-            pairs[i][0] = nums2[i]; // nums2 value
-            pairs[i][1] = nums1[i]; // nums1 value
+        long total = 0;
+        long max = 0;
+        ArrayList<Pair> list = new ArrayList<>();
+        for(int i=0; i<nums2.length; i++){
+            list.add(new Pair(nums2[i],nums1[i]));
         }
 
-        // Step 2: Sort pairs in descending order of nums2
-        Arrays.sort(pairs, (a, b) -> b[0] - a[0]);
+        list.sort((p1, p2) -> Integer.compare(p2.nums2data, p1.nums2data));
+        // creating the meanheap
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
 
-        // Step 3: Min-heap for nums1 values
-        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
-        long sum = 0, maxScore = 0;
+        for(Pair p: list){
+            pq.add(p.nums1data);
+            total = total+p.nums1data;
 
-        // Step 4: Iterate pairs
-        for (int i = 0; i < n; i++) {
-            minHeap.add(pairs[i][1]);
-            sum += pairs[i][1];
-
-            // Keep only top k nums1 values
-            if (minHeap.size() > k) {
-                sum -= minHeap.poll();
+            if(pq.size()>k){
+                total =total-pq.poll();
             }
-
-            // If we have exactly k elements, compute score
-            if (minHeap.size() == k) {
-                long score = sum * pairs[i][0]; // current nums2 = min
-                maxScore = Math.max(maxScore, score);
+            if(pq.size() == k){
+                max = Math.max(max, total*p.nums2data);
             }
         }
-
-        return maxScore;
+        return max;
     }
 }
