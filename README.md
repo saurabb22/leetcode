@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saurabh4325/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Saurabh4325/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Saurabh4325/leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Saurabh4325/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Saurabh4325/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Saurabh4325/leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Saurabh4325/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Saurabh4325/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Saurabh4325/leetcode/tree/master/0050-powx-n) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Saurabh4325/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Saurabh4325/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Saurabh4325/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Saurabh4325/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Saurabh4325/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Saurabh4325/leetcode/tree/master/0733-flood-fill) |
