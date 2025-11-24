@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Saurabh4325/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Saurabh4325/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Saurabh4325/leetcode/tree/master/0735-asteroid-collision) |
+| [0846-hand-of-straights](https://github.com/Saurabh4325/leetcode/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Saurabh4325/leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Saurabh4325/leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saurabh4325/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Saurabh4325/leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Saurabh4325/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Saurabh4325/leetcode/tree/master/0455-assign-cookies) |
+| [0846-hand-of-straights](https://github.com/Saurabh4325/leetcode/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Saurabh4325/leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Saurabh4325/leetcode/tree/master/0917-boats-to-save-people) |
 | [2636-maximum-subsequence-score](https://github.com/Saurabh4325/leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Saurabh4325/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/Saurabh4325/leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Saurabh4325/leetcode/tree/master/0496-next-greater-element-i) |
+| [0846-hand-of-straights](https://github.com/Saurabh4325/leetcode/tree/master/0846-hand-of-straights) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Saurabh4325/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2406-decode-the-message](https://github.com/Saurabh4325/leetcode/tree/master/2406-decode-the-message) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Saurabh4325/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurabh4325/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Saurabh4325/leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Saurabh4325/leetcode/tree/master/0455-assign-cookies) |
+| [0846-hand-of-straights](https://github.com/Saurabh4325/leetcode/tree/master/0846-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/Saurabh4325/leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saurabh4325/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurabh4325/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
