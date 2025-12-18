@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Saurabh4325/leetcode/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Saurabh4325/leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Saurabh4325/leetcode/tree/master/0917-boats-to-save-people) |
+| [0941-valid-mountain-array](https://github.com/Saurabh4325/leetcode/tree/master/0941-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Saurabh4325/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/Saurabh4325/leetcode/tree/master/1127-last-stone-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Saurabh4325/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
