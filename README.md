@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Saurabh4325/leetcode/tree/master/1127-last-stone-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Saurabh4325/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Saurabh4325/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1528-shuffle-string](https://github.com/Saurabh4325/leetcode/tree/master/1528-shuffle-string) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Saurabh4325/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Saurabh4325/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2227-sum-of-subarray-ranges](https://github.com/Saurabh4325/leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Saurabh4325/leetcode/tree/master/0344-reverse-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Saurabh4325/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/Saurabh4325/leetcode/tree/master/1454-remove-palindromic-subsequences) |
+| [1528-shuffle-string](https://github.com/Saurabh4325/leetcode/tree/master/1528-shuffle-string) |
 | [1542-consecutive-characters](https://github.com/Saurabh4325/leetcode/tree/master/1542-consecutive-characters) |
 | [2406-decode-the-message](https://github.com/Saurabh4325/leetcode/tree/master/2406-decode-the-message) |
 ## Stack
